@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Breezy</string>
+    <string name="title_home">Home</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="language">Language</string>
+    <string name="default_">Default</string>
+    <string name="search">Search</string>
+
+    <string name="category_business">Business</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_general">General</string>
+    <string name="category_health">Health</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+
+    <string name="language_arabic">Arabic</string>
+    <string name="language_english">English</string>
+    <string name="language_french">French</string>
+    <string name="language_german">German</string>
+    <string name="language_spanish">Spanish</string>
+
+    <string name="country_egypt">Egypt</string>
+    <string name="country_usa">United States</string>
+    <string name="country_canada">Canada</string>
+    <string name="country_france">France</string>
+    <string name="country_germany">Germany</string>
+
+
+</resources>
